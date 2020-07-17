@@ -3,9 +3,8 @@ Reading and writing data from excel and txt files ( Excel ve txt dosyalarından 
 
 Proliz öğrenci işleri bilgi sistemi dersi alan öğrencileri Excel dosyası olarak dışarı çıkartmaktadır. 
 Bu Excel dosyasını göz at düğmesi ile alarak sistemde belirtilen sınıflara rastgele olarak atayan ve her sınıfa atanan öğrencilerin listesini Excel dosyası olarak çıktı veren bir C# uygulaması hazırlayınız.
-Hazırlanacak olan uygulamanın arayüzü aşağıdaki gibi olabilir.  
+Hazırlanacak olan uygulamanın arayüzü "Örnek.png" gibi olabilir.  
 
-![](https://raw.githubusercontent.com/hilaldkmn/student-affairs-information-system/master/Örnek.png)
   
 Uygulamanın çalışma biçimi aşağıdaki gibi olmalıdır:  
   
