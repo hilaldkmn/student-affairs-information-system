@@ -1,5 +1,5 @@
 # student-affairs-information-system
-Reading and writing data from excel and txt files ( Excel ve txt dosyalarından veri okuma ve yazma)
+Reading and writing data from excel and txt files ( Excel ve txt dosyalarından veri okuma ve yazma).
 
 Proliz öğrenci işleri bilgi sistemi dersi alan öğrencileri Excel dosyası olarak dışarı çıkartmaktadır. 
 Bu Excel dosyasını göz at düğmesi ile alarak sistemde belirtilen sınıflara rastgele olarak atayan ve her sınıfa atanan öğrencilerin listesini Excel dosyası olarak çıktı veren bir C# uygulaması hazırlayınız.
